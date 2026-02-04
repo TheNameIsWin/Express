@@ -1,0 +1,18 @@
+{
+  "name": "express-project",
+  "version": "1.0.0",
+  "description": "Yaha me notes bana raha hu jo express node or mongodb padhne ke liye helpful hai.\r Express ke liye firstly freshly project bana raha hu me or a uske liye me use karunga",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
