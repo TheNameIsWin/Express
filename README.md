@@ -26,7 +26,11 @@ npm install express
 npm install nodemon
 
 
-Express is used to create the server and handle routes
+Express is used to create the server and handle routes.
+
 
 Nodemon automatically restarts the server whenever the code changes
+
+
+Nodemon automatically restarts the server whenever the code changes.
 
